@@ -1,9 +1,13 @@
 # Data Warehouse and Analytics Project
 
-Full hands on project wit Baraa @ Data with Baraa
+Before reading about the project details, see what i have learned with it:
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+- How to design a data warehouse using Medallion Architecture (Bronze / Silver / Gold)
+- How to build ETL pipelines in SQL to ingest, clean, and transform data
+- Data modeling with star schema, fact and dimension tables
+- Writing analytical SQL queries to support reporting and business intelligence
+- Implementing data quality checks and test scripts for validation
+- Documenting a data warehouse: data catalog, schema diagrams, naming conventions
 
 ---
 ## 🏗️ Data Architecture
